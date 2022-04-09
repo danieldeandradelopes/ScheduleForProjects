@@ -30,7 +30,7 @@
     "@adonisjs/validator": "^5.0.6",
     "@sentry/node": "5.3.0",
     "adonis-kue": "^5.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mysql": "^2.17.1"
   },
   "devDependencies": {
